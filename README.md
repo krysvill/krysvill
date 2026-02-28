@@ -2,7 +2,12 @@
 
 # Hola 👋,Soy Tábata Villegas Arequipa
 
-###  Analista de Datos | Coordinación Operativa
+###  🌐 Analista de Datos | 🚀 Coordinación Operativa
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/krysvill)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/tabatavillegas/)&nbsp;&nbsp;&nbsp;[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/https://www.behance.net/tabatavillegas)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593969813573)
+
+</div>
 
 </div>
 
@@ -36,32 +41,24 @@ decisiones operativas y comerciales.
 
 | Institution                              | Degree     | Duration          |
 | ---------------------------------------- | ---------- | ----------------- |
-| Escuela Superior Politecnica del Litoral | Ingeniería | 2021-05 - 2028-09 |
+| Escuela Superior Politecnica del Litoral | Ingeniería Mecánica | 2021-05 - 2028-09 |
 
-### Ingeniería in Mecánica
+### Ingeniería  Mecánica
 
-_Escuela Superior Politecnica del Litoral _
+Escuela Superior Politecnica del Litoral 
 
 Cuento con conocimientos prácticos en AutoCAD e Inventor para diseño y modelado
 2D/3D. Actualmente en capacitación autónoma sobre normativa de dibujo técnico,
 fortaleciendo competencias en representación gráfica y estandarización de
 planos.
 
-## 📞 Contact & Links
+## 📞 Información y contactos
 
 <div align="left">
 
-- 📫 How to reach me **krystelvillegasa@outlook.es**
-- 👨‍💻 All of my projects are available at
+- 📫 Correo: **krystelvillegasa@outlook.es**
+- 👨‍💻 Proyectos Data Analist
   [https://github.com/krysvill/Data-Driven-](https://github.com/krysvill/Data-Driven-)
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/krysvill)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/tabatavillegas/)&nbsp;&nbsp;&nbsp;[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/https://www.behance.net/tabatavillegas)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593969813573)
 
 </div>
 
