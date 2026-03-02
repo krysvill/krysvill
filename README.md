@@ -31,6 +31,8 @@ decisiones operativas y comerciales.
 
 ## 🚀 Projects
 
+**En proceso estoy aprendiendo git para subir el repositorio de manera local y sea mas sencillo las updates**
+
 | Project | Description | Links |
 | ------- | ----------- | ----- |
 |         |             |       |
