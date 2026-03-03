@@ -22,10 +22,10 @@ mejorar la toma de decisiones operativas y comerciales.
 
 <div align="left">
 
-- 🌱 Actualmente me encuentro aprendiendo sobre Git
 - 🌟 Poseo experiecia en Limpieza de datos
 - 💡 Transformo datos en insights accionables para mejorar la toma de
 decisiones operativas y comerciales.
+- 🌱 Actualmente me encuentro aprendiendo sobre Git & GitHub
 
 </div>
 
@@ -35,7 +35,7 @@ decisiones operativas y comerciales.
 
 | Project | Description | Links |
 | ------- | ----------- | ----- |
-|         |             |       |
+| RideFare| Análisis de los datos de la plataforma RideFare (viajes Uber y Lyft), cómo influyen variables e identificar patrones útiles para la toma de decisiones o futuros modelos predictivos.|https://github.com/krysvill/Data-Driven-/tree/070c532e2f726bbca31005ba73e3dba54d26bca2/Proyecto%20RideFare|
 
 ###
 
@@ -43,7 +43,14 @@ decisiones operativas y comerciales.
 
 | Institution                              | Degree     | Duration          |
 | ---------------------------------------- | ---------- | ----------------- |
+| Escuela Superior Politecnica del Litoral | Data Driven Desicion Specialist| 2025-08 - 2026-04 |
+| ---------------------------------------- | ---------- | ----------------- |
 | Escuela Superior Politecnica del Litoral | Ingeniería Mecánica | 2021-05 - 2028-09 |
+
+### Data Driven Desicion Specialist
+Bootcamp intensivo en Análisis de Datos y Business Intelligence, con formación en Python ( Matplotlib, Pandas), SQL y Excel para
+limpieza, transformación y análisis de información. Incluyó el uso de Power BI y DAX para modelado avanzado, creación de KPIs y
+dashboards interactivos orientados a la toma de decisiones
 
 ### Ingeniería  Mecánica
 
