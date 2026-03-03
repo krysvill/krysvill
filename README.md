@@ -68,6 +68,9 @@ planos.
 - 📫 Correo: **krystelvillegasa@outlook.es**
 - 👨‍💻 Proyectos Data Analist
   [https://github.com/krysvill/Data-Driven-](https://github.com/krysvill/Data-Driven-)
+  - 👨‍💻 Proyectos Diseño planos
+    https://www.behance.net/tabatavillegas
+  (Aún en desarrollo)
 
 </div>
 
