@@ -35,8 +35,8 @@ decisiones operativas y comerciales.
 
 | Project | Description | Links |
 | ------- | ----------- | ----- |
-| RideFare| Análisis de los datos de la plataforma RideFare (viajes Uber y Lyft), cómo influyen variables e identificar patrones útiles para la toma de decisiones o futuros modelos predictivos.|https://github.com/krysvill/Data-Driven-/tree/070c532e2f726bbca31005ba73e3dba54d26bca2/Proyecto%20RideFare|
-
+| RideFare| Análisis de los datos de la plataforma RideFare (viajes Uber y Lyft), cómo influyen variables e identificar patrones útiles para la toma de decisiones o futuros modelos predictivos.|https://github.com/krysvill/Data-Driven-/tree/a9a7908e9d272710d12a074454d3ec7f060a7a03/Proyecto%20RideFare|
+| Proyecto Appol | Dashboard básico introductorio a PowerBI |https://github.com/krysvill/Data-Driven-/tree/a9a7908e9d272710d12a074454d3ec7f060a7a03/Proyecto%20Appol |
 ###
 
 ## 🎓 Education
