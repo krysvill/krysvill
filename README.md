@@ -61,6 +61,12 @@ Cuento con conocimientos prácticos en AutoCAD e Inventor para diseño y modelad
 fortaleciendo competencias en representación gráfica y estandarización de
 planos.
 
+## 🏅 Certificaciones
+
+<a href="https://www.credly.com/badges/b06863c7-8464-4dff-8a28-121bc732f9a5/public_url">
+  <img width="150" height="150" alt="microsoft-office-specialist-excel-associate-microsoft-365-apps" src="https://github.com/user-attachments/assets/c91e67bf-866c-4753-a3ee-d91e2a840a63" />
+</a>
+
 ## 📞 Información y contactos
 
 <div align="left">
