@@ -26,6 +26,7 @@ datos en contextos de manufactura y operaciones.
 
 
 **Data Driven Desicion Specialist**
+
 Bootcamp intensivo en Análisis de Datos y Business Intelligence, con formación en Python ( Matplotlib, Pandas), SQL y Excel para
 limpieza, transformación y análisis de información. Incluyó el uso de Power BI y DAX para modelado avanzado, creación de KPIs y
 dashboards interactivos orientados a la toma de decisiones
@@ -40,12 +41,23 @@ fortaleciendo competencias en representación gráfica y estandarización de
 planos.
 
 ## 📁 Repositorios
-**🎓 Bootcamp Data Driven Decisions Analist:** Proyectos del Bootcamp Data Driven Decision Specialist  en Coding Bootcamps ESPOL durante el periodo 2025-2026
+**🎓 Bootcamp Data Driven Decisions Specialist:** 
 
-**📚Data Science Learning:** Proyectos y ejercicios de aprendizaje autónomo en Data Science
+Proyectos del Bootcamp Data Driven Decision Specialist  en Coding Bootcamps ESPOL durante el periodo 2025-2026
+[![repo](https://img.shields.io/badge/Bootcamp--Data_Driven_Decisions_Specialist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krysvill/Bootcamp_Data_Driven_Decisions_Specialist)
 
-**🏛️Proyetos ESPOL:** Proyectos académicos realizados en mi transcurso en carrera de Ingeniería Mecánica - Escuela Superior Politécnica del Litoral (ESPOL)
 
+**📚Data Science Learning:** 
+
+Proyectos y ejercicios de aprendizaje autónomo en Data Science
+
+[![repo](https://img.shields.io/badge/Data_Science--Proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krysvill/Data-Science-Learning)
+
+**🏛️Proyetos ESPOL:** 
+
+Proyectos académicos realizados en mi transcurso en carrera de Ingeniería Mecánica - Escuela Superior Politécnica del Litoral (ESPOL)
+
+[![repo](https://img.shields.io/badge/Universidad--Proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krysvill/Proyectos-Universidad-ESPOL)
 
 ## 🏅 Certificaciones
 
